@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+:root {
+  --background: #fdfad9;
+  --foreground: #c1e2a4;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Inria Sans", sans-serif;
+}
