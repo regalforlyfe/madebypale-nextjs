@@ -5,12 +5,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
 :root {
-  --background: #fdfad9;
-  --foreground: #c1e2a4;
+  --color1: #2c3639;
+  --color2: #D91656;
+  --color3: #ead8b1;
+  --color4: #3f4e4f;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
+  background: var(--color1);
+  color: var(--color2);
   font-family: "Inria Sans", sans-serif;
 }

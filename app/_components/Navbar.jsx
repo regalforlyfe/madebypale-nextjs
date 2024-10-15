@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4  text-gray-300 z-10">
+    <div className="fixed w-full h-[80px] mix-blend-difference flex justify-between items-center px-4 z-10">
       <div className="flex">
         <h1 className="text-3xl font-bold">madebypale</h1>
       </div>

@@ -19,11 +19,9 @@ export default function Home() {
   return (
     <div>
       <Intro />
-      <Description />
-      <Section />
-      <div className="h-screen">
-        <Footer />
-      </div>
+      {/* <Description /> */}
+      {/* <Section />
+      <Footer /> */}
     </div>
   );
 }
